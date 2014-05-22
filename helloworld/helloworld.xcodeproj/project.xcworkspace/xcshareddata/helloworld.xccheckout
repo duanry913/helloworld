@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FD5C5148-33F0-4895-AF9A-A34D383706E7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>helloworld</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0C35D7D9-DB15-49E1-8BBC-EE3DD3CD13B1</key>
+		<string>https://github.com/duanry913/helloworld.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>helloworld/helloworld.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0C35D7D9-DB15-49E1-8BBC-EE3DD3CD13B1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/duanry913/helloworld.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0C35D7D9-DB15-49E1-8BBC-EE3DD3CD13B1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0C35D7D9-DB15-49E1-8BBC-EE3DD3CD13B1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>helloworld</string>
+		</dict>
+	</array>
+</dict>
+</plist>
